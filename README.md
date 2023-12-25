@@ -49,15 +49,15 @@ mvn spring-boot:run
 2. Get todo item by ID: `GET /api/todo/{id}`
 3. Create todo item: `POST /api/todo`
 4. Update todo item: `PUT /api/todo/{id}`
-5.Delete todo item: `DELETE /api/todo/{id}`
+5. Delete todo item: `DELETE /api/todo/{id}`
 
 **Usage**
 Use any REST client (e.g., Postman) or make HTTP requests to the provided endpoints to interact with the Todo API.
 
 
-### Questions from the task:
+## Questions from the task:
 
-1. Was it easy to complete the task using AI? yes <br>
+1. Was it easy to complete the task using AI? yes </br>
 2. How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics) 2.5 hours
 3. Was the code ready to run after generation? not completely, I had to ask for some additions
 4. What did you have to change to make it usable? I had to ask gpt to add exception handling and improving the service layer
@@ -65,7 +65,7 @@ Use any REST client (e.g., Postman) or make HTTP requests to the provided endpoi
 6 Which specific prompts you learned as a good practice to complete the task? asking GPT to give example prompts to ask further in the conversation.
 
 
-**5. ChatGPT Logs:**
+## ChatGPT Logs:
 ```
 https://chat.openai.com/share/5b5f9084-a780-41ff-8ef2-ef01c5b8f85b
 ```
