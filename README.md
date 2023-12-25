@@ -62,3 +62,8 @@ Questions from the task:
 - Which challenges did you face during completion of the task? I had problems while writing tests for controller layer
 - Which specific prompts you learned as a good practice to complete the task? asking GPT to give example prompts to ask further in the conversation.
 ```
+
+**5. ChatGPT Logs:**
+```
+https://chat.openai.com/share/5b5f9084-a780-41ff-8ef2-ef01c5b8f85b
+```
