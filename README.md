@@ -45,23 +45,25 @@ mvn spring-boot:run
 
 **4. API Endpoints:**
 
-Get all todo items: `GET /api/todo`
-Get todo item by ID: `GET /api/todo/{id}`
-Create todo item: `POST /api/todo`
-Update todo item: `PUT /api/todo/{id}`
-Delete todo item: `DELETE /api/todo/{id}`
-Usage
-Use any REST client (e.g., Postman) or make HTTP requests to the provided endpoints to interact with the Todo API.
-Questions from the task:
+1. Get all todo items: `GET /api/todo`
+2. Get todo item by ID: `GET /api/todo/{id}`
+3. Create todo item: `POST /api/todo`
+4. Update todo item: `PUT /api/todo/{id}`
+5.Delete todo item: `DELETE /api/todo/{id}`
 
-```
-- Was it easy to complete the task using AI? yes
-- How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics) 2.5 hours
-- Was the code ready to run after generation? not completely, I had to ask for some additions
-- What did you have to change to make it usable? I had to ask gpt to add exception handling and improving the service layer
-- Which challenges did you face during completion of the task? I had problems while writing tests for controller layer
-- Which specific prompts you learned as a good practice to complete the task? asking GPT to give example prompts to ask further in the conversation.
-```
+**Usage**
+Use any REST client (e.g., Postman) or make HTTP requests to the provided endpoints to interact with the Todo API.
+
+
+### Questions from the task:
+
+1. Was it easy to complete the task using AI? yes <br>
+2. How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics) 2.5 hours
+3. Was the code ready to run after generation? not completely, I had to ask for some additions
+4. What did you have to change to make it usable? I had to ask gpt to add exception handling and improving the service layer
+5. Which challenges did you face during completion of the task? I had problems while writing tests for controller layer
+6 Which specific prompts you learned as a good practice to complete the task? asking GPT to give example prompts to ask further in the conversation.
+
 
 **5. ChatGPT Logs:**
 ```
