@@ -10,7 +10,6 @@ This is a simple Todo application built using Java, Spring Boot, Hibernate, and 
   
 ## Prerequisites
 Make sure you have the following installed:
-
 - Java Development Kit (JDK)
 - Maven
 - MySQL
